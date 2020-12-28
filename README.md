@@ -31,8 +31,8 @@ Plant Watering
 The web app is built using Flask as my CS50 final project.
 
 There are two main pages on the web app
-* My Garden: where you can add new plants
-* Water: Where you can check when is the next plant to be watered. Functionalities include 'water' today or 'postpone' for a day
+* **My Garden:** where you can add new plants
+* **Water:** Where you can check when is the next plant to be watered. Functionalities include 'water' today or 'postpone' for a day
 
 ## To Do
 
